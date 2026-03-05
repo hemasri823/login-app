@@ -54,7 +54,10 @@ npm install
 npm start  
 
 ---
+## 🔗 Live Demo
+[Click here to open the app](https://login-app-nine-weld.vercel.app/)
 
+---
 ## 🔐 Test Credentials
 
 Username: admin  
