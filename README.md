@@ -28,6 +28,7 @@ This project is a simple Full-Stack Login Application built using React (Fronten
 
 ## 📂 Project Structure
 
+```
 login-app/
 ├── backend/
 │   └── server.js
@@ -36,6 +37,7 @@ login-app/
 │       ├── pages/
 │       ├── services/
 │       ├── App.js
+```
 
 ---
 
